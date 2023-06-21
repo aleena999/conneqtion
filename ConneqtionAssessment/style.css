@@ -1,0 +1,23 @@
+* {
+  font-family: "Mulish", sans-serif;
+  font-size: small;
+}
+
+body {
+  padding: 25px;
+}
+
+#employeeForm {
+  border-style: solid;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+h1,
+h2{
+  text-align: center;
+}
+
+.btn{
+  background-color: #34D2F2;
+}
